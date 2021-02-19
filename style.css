@@ -1,0 +1,63 @@
+body 
+{
+    text-align: center
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.campuslife_maindiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.campuslife_maindiv img 
+{
+    width: 100%;
+}
+.campuslife_maindiv hr 
+{
+    width : 230px;
+}
+.campuslife h5, .travel_maindiv p
+{
+  margin-left: 20px;  
+}
+.movie_head 
+{
+    font-size : 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    
+}
+.movie_head i
+{
+   float: right;
+}
+.movie_text span 
+{
+    color: blue;
+}
+#mainimg 
+{
+    height : 300px;
+    width: 500px;
+    align-content: center;
+}
